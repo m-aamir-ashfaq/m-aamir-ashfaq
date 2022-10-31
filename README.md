@@ -29,4 +29,5 @@
 <a href="#"><img src="https://img.shields.io/badge/Java-Expert-yellowgreen.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-blue.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+<a href="https://www.linkedin.com/in/amir-ashfaq/"><img src="https://img.shields.io/badge/LinkedIn-Amir--Ashfaq-0073B1"></a>
 </p>
