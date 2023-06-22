@@ -9,8 +9,7 @@
 [//]: # (</a> </p>)
 
 <div style="text-align:center;">
-   <img height="160" alt = "GitHub Stats" src="
-      https://test3-sepia-chi.vercel.app/api?username=m-aamir-ashfaq&theme=nord&show_icons=true&hide=issues&hide_border=true&count_private=true">
+   <img height="160" alt = "GitHub Stats" src="https://test3-sepia-chi.vercel.app/api?username=m-aamir-ashfaq&hide=contribs,prs">
    <img height="160" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-aamir-ashfaq&theme=nord&hide=html,&hide_border=true&count_private=true">
 </div>
 
